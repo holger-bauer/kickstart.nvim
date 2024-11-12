@@ -4,4 +4,5 @@ test.sh
 nvim
 
 spell/
-lazy-lock.json
+backup-init.lua.
+test_init.lua
